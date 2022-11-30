@@ -1,1 +1,2 @@
-Been a day!
+My first commit
+been a day
